@@ -1,6 +1,6 @@
 # Type on the go emoji
 
-#### How to use
+### How to use
 -------
 
 URL: [link](http://shacheng.co.uk/Type-on-the-go-emoji/)
@@ -11,6 +11,6 @@ i.e. `:smile: is great`
 
 Emoji code cheat sheet: [link](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-#### Overview
+### Overview
 -------
 User Makers emojify API ([link](https://makers-emojify.herokuapp.com/))
