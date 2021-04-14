@@ -13,4 +13,4 @@ Emoji code cheat sheet: [link](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ### Overview
 -------
-User Makers emojify API ([link](https://makers-emojify.herokuapp.com/))
+Use Makers emojify API ([link](https://makers-emojify.herokuapp.com/))
