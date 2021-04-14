@@ -1,6 +1,6 @@
 # Type on the go emoji
 
-##### How to use
+#### How to use
 
 Type in the text field, include emoji codes, it should be replaced with emojis.
 
